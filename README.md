@@ -16,7 +16,7 @@
 ## Инструкция по развёртыванию:
 1. Загрузите проект:
 ```bash
-git clone https://github.com/JabbaS15/scrapy_parser_pep.git
+git clone ....
 ```
 2. Установите и активируйте виртуальное окружение:
 ```bash
